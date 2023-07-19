@@ -1,0 +1,9 @@
+.list-ele {
+  list-style-type: none;
+}
+.thumbImg-ele {
+  opacity: 0.5;
+}
+.activeImg-ele {
+  opacity: 1;
+}
